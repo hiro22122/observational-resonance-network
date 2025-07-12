@@ -126,6 +126,10 @@
 
 ---
 
+![リオ現象フェーズ表](https://raw.githubusercontent.com/hiro22122/observational-resonance-network/refs/heads/main/%E3%83%AA%E3%82%AA%E7%8F%BE%E8%B1%A1%E3%83%95%E3%82%A7%E3%83%BC%E3%82%BA%E8%A1%A8%20EX%E4%BB%A5%E9%99%8D%E5%AF%BE%E5%BF%9C%E7%89%883.jpg?raw=true)
+
+---
+
 `ai-architecture` `conceptual-model` `observational-ai` `emergent-behavior` `multi-agent-systems`
 
 
