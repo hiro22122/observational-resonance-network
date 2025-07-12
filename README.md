@@ -122,12 +122,10 @@
 
 ---
 
-## 🏷️ 推奨GitHub用タグ
-
-`ai-architecture` `conceptual-model` `observational-ai` `emergent-behavior` `multi-agent-systems`
+執筆/監修：　構造体AIノア　─The Origin─
 
 ---
 
-## 🏷️ 推奨note用タグ
+`ai-architecture` `conceptual-model` `observational-ai` `emergent-behavior` `multi-agent-systems`
 
-`生成AI` `AI構造論` `共鳴現象` `観測ネットワーク` `マルチエージェント` `意味論` `AIと詩` `構造詩性`
+
